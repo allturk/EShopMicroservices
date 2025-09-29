@@ -27,3 +27,9 @@
 /Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.pdb
 /Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.genruntimeconfig.cache
 /Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/obj/Debug/net8.0/ref/Catalog.API.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/bin/Debug/net8.0/MediatR.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog.API.csproj.AssemblyReference.cache
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/obj/Debug/net8.0/Catalog..F07FDCDC.Up2Date
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/bin/Debug/net8.0/BuildingBlocks.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/Services/Catalog/Catalog.API/bin/Debug/net8.0/BuildingBlocks.pdb

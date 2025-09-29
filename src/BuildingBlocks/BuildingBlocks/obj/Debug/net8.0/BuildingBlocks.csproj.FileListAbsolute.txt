@@ -1,0 +1,13 @@
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.deps.json
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.pdb
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.sourcelink.json
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/refint/BuildingBlocks.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.pdb
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/ref/BuildingBlocks.dll
+/Users/algoritmaturk/RiderProjects/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.AssemblyReference.cache
